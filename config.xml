@@ -6,7 +6,7 @@
         versionCode = "1"
         android-versionCode="1"
         version   = "1.0.0">
-    <name>MHCourses</name>
+    <name>Moodle</name>
 
     <description>
         Magnifiers Hub Courses
