@@ -2,22 +2,22 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.magnifiers.courses"
         versionCode = "36100"
         android-versionCode="36100"
-        version   = "3.6.1">
-    <name>Moodle</name>
+        version   = "1.0.0">
+    <name>MHCourses</name>
 
     <description>
-        Moodle official app
+        Magnifiers Hub Courses
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+        Magnifiers Hub
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.6.1</string>
+        <string>1.0.0</string>
     </edit-config>
 
     <gap:platform name="ios" />
