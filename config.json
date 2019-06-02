@@ -53,12 +53,9 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    
-    
-    
     "customurlscheme": "moodlemobile",
     "siteurl": "https:\/\/courses.mag-hub.com\/dashboard\/",
-    "multisitesdisplay": "",
+    "multisitesdisplay": "false",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148"
