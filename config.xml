@@ -6,13 +6,13 @@
         versionCode = "1"
         android-versionCode="1"
         version   = "1.0.0">
-    <name>Moodle</name>
+    <name>MHCourses</name>
        
     <description>
         Magnifiers Hub Courses
     </description>
 
-    <author href="http://moodle.com" email="support@mag-hub.com">
+    <author href="http://mag-hub.com" email="support@mag-hub.com">
         Magnifiers Hub
     </author>
 
@@ -162,7 +162,7 @@
         <variable name="FCM_VERSION" value="17.0.+" />
     </gap:plugin>
 
-    <edit-config file="AndroidManifest.xml" target="/manifest/application/activity[@android:name='Moodle']" mode="merge">
+    <edit-config file="AndroidManifest.xml" target="/manifest/application/activity[@android:name='MHCourses']" mode="merge">
         <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="true"></activity>
     </edit-config>
 
