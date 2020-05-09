@@ -55,9 +55,9 @@
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
     "demo_sites": {},
-    "siteurl": "https:\/\/courses.mag-hub.com\/dashboard",
+    "siteurl": "https:\/\/learn.mag-hub.com",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148"
+    "privacypolicy": "https:\/\/mag-hub.com\/privacy-policy"
 }
